@@ -1,0 +1,9 @@
+.item {
+  padding: 15px;
+
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+
+  border: 1px solid green;
+}
